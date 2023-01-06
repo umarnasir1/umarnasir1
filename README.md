@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umar (@umarnasir1)
-- 👀 I’m interested in C++ programming, Telecommunication & emerging technologies.
-- 🌱 I’m currently learning C++ (upskilling in C++)
+- 👀 I’m interested in C++ programming, Telecommunications & emerging technologies.
+- 🌱 I’m currently upskilling C++ (Modern C++)
 - 💞️ I’m looking to collaborate on C++ projects/ Internship in C++ Development/  C++ Development entry level job.
 - 📫 How to reach me umar021@gmail.com
 
